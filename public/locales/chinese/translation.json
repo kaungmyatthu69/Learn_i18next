@@ -1,0 +1,15 @@
+{
+    "main":{
+        "header":"Hello",
+        "new_messages_zero":"You have no new message",
+      
+        "new_messages_one":"You have one new message",
+        "new_messages_other":"You have {{count}} new messages",
+        "current_date":" Today is {{date,DATE_LONG}}",
+        "incoming_messages":" 你有一条消息来自{{from}}",
+        "message_contents":"They said {{body}}",
+        "message_contents_female":"She said {{body}}",
+        "message_contents_male":"He said {{body}}"
+
+    }
+}
